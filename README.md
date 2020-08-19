@@ -16,7 +16,7 @@ I'd like to learn one of the back-end language/tool.
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="images/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/visual-studio-code.png?raw=true" />
 <img align="left" alt="HTML5" width="26px" src="images/html.png" />
 <img align="left" alt="CSS3" width="26px" src="images/css.png" />
 <img align="left" alt="Sass" width="26px" src="images/sass.png" />
