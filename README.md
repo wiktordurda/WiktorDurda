@@ -17,13 +17,13 @@ I'd like to learn one of the back-end language/tool.
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/visual-studio-code.png?raw=true" />
-<img align="left" alt="HTML5" width="26px" src="images/html.png" />
-<img align="left" alt="CSS3" width="26px" src="images/css.png" />
-<img align="left" alt="Sass" width="26px" src="images/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="images/javascript.png" />
-<img align="left" alt="React" width="26px" src="images/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="images/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="images/graphql.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/html.png?raw=true" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/css.png?raw=true" />
+<img align="left" alt="Sass" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/sass.png?raw=true" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/javascript.png?raw=true" />
+<img align="left" alt="React" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/react.png?raw=true" />
+<img align="left" alt="Gatsby" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/gatsby.png?raw=true" />
+<img align="left" alt="GraphQL" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/graphql.png?raw=true" />
 
 <!--
 **WiktorDurda/WiktorDurda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
