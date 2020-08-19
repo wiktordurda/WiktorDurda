@@ -21,6 +21,7 @@ I'd like to learn one of the back-end language/tool.
 <img align="left" alt="CSS3" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/css.png?raw=true" />
 <img align="left" alt="Sass" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/sass.png?raw=true" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/javascript.png?raw=true" />
+<img align="left" alt="TypeScript" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/typescript.png?raw=true" />
 <img align="left" alt="React" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/react.png?raw=true" />
 <img align="left" alt="Gatsby" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/gatsby.png?raw=true" />
 <img align="left" alt="GraphQL" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/graphql.png?raw=true" />
