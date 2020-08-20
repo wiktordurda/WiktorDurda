@@ -14,6 +14,9 @@ I'd like to implement my knowledge of typescript in React project.
 ### 📚 What would I like to learn in the near future?
 I'd like to learn one of the back-end language/tool.
 
+### ⚡ Fun fact:
+I recently co-produced a music video. [Watch!](https://youtu.be/xobbMVgPm0I)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/visual-studio-code.png?raw=true" />
