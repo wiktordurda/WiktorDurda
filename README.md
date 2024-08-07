@@ -6,7 +6,7 @@
 The appearance and good design are very important to me, but one that is practical and functional. The website or application should be pleasing to the eye, but it must also be pleasant to use.
 
 ### 🔭 What am I currently working on?
-I'd like to finish (Animations on the web)[https://animations.dev/learn] course.
+I'd like to finish [Animations on the web](https://animations.dev/learn) course.
 
 ### 📚 What would I like to learn in the near future?
 I'd like to learn and gain commercial experience working with either .NET or one of Node.js frameworks. 
