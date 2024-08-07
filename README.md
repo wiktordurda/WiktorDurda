@@ -5,6 +5,12 @@
 ### ❗ What is important for me?
 The appearance and good design are very important to me, but one that is practical and functional. The website or application should be pleasing to the eye, but it must also be pleasant to use.
 
+### 🔭 What am I currently working on?
+I'd like to finish (Animations on the web)[https://animations.dev/learn] course.
+
+### 📚 What would I like to learn in the near future?
+I'd like to learn and gain commercial experience working with either .NET or one of Node.js frameworks. 
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/visual-studio-code.png?raw=true" />
@@ -14,7 +20,7 @@ The appearance and good design are very important to me, but one that is practic
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/javascript.png?raw=true" />
 <img align="left" alt="TypeScript" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/typescript.png?raw=true" />
 <img align="left" alt="React" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/react.png?raw=true" />
-<img align="left" alt="NextJs" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/gatsby.png?raw=true" />
+<img align="left" alt="NextJs" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/next.png?raw=true" />
 <img align="left" alt="Gatsby" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/gatsby.png?raw=true" />
 <img align="left" alt="GraphQL" width="26px" src="https://github.com/WiktorDurda/WiktorDurda/blob/master/images/graphql.png?raw=true" />
 
